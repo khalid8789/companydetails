@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+  
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    
+}
+.a{
+    color: black;
+    font-weight: bold;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.report{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
